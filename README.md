@@ -9,9 +9,9 @@ Admin Level Configuration:
   A. SMTP host: smtp.gmail.com
   B. SMTP port: 465
   C. Secure connection: ssl
-  D. SMTP username: sample@highradius.com
+  D. SMTP username: sample@gmail.com
   E. SMTP password: Need to create an app password.( Go to Google Account → Security → configure a app password)
-  F. From address: sample@highradius.com
+  F. From address: sample@gmail.com
   G. From name : SonarQube
   H. Email prefix : [SONARQUBE]
 
